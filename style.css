@@ -1,0 +1,12 @@
+body {
+    margin: 15px;
+    position: relative;
+}
+
+.sidebar {
+    width: 50px;
+}
+
+img {
+    width: 120px;
+}
